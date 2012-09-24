@@ -1,0 +1,23 @@
+{
+  "author": "DIY Co <https://diy.org>",
+  "name": "cc-client",
+  "description": "A node.js client for the Constant Contact API",
+  "version": "0.1.0",
+  "main": "./lib/index.js",
+  "scripts": {},
+  "dependencies": {
+    "request": "2.10.X",
+    "xml2js": "0.1.X",
+    "xmlbuilder": "0.3.X"
+  },
+  "devDependencies": {
+    "async": "0.1.X",
+    "Faker": "0.1.X",
+    "optimist": "0.3.X",
+    "tap": "0.3.X"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">=0.6"
+  }
+}
