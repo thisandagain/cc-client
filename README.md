@@ -1,6 +1,11 @@
 ## cc-client
 #### Node.js wrapper for the Constant Contact API
 
+### Installation
+```bash
+npm install cc-client
+```
+
 ### Basic Use
 ```javascript
 var client = require('cc-client')('APIKEY', 'USERNAME', 'PASSWORD');
